@@ -1,0 +1,46 @@
+h1{
+    color:#ff0000;
+    background-color: aliceblue;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    h2{
+        color:blue;
+        text-shadow: 4px 4px 8px blueviolet;
+    }
+    p.a{
+    color:#ff0000;
+    background-color: aqua;
+    font-size: 25px;
+    direction: rtl;
+    letter-spacing: 5px;
+    word-spacing: 5px;
+    text-decoration: overline;
+    text-transform: capitalize;
+    text-shadow: 4px 4px 8px red;
+    }
+    p{
+        text-indent: 2cm;
+        text-align: left;
+        
+    }
+    .cls{
+    color:#00ff00;
+    }
+    body{
+        font-family: cursive;
+        background-color:yellow;
+        font-weight: 900;
+        background-image: url("a.jpeg");
+        
+        background-attachment: scroll;
+        background-attachment: fixed;
+       background-repeat: no-repeat;
+       font-style: italic;
+       
+       font-weight: 900;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+       
+    }
+    
